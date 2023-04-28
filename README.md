@@ -8,8 +8,12 @@ In this account, not so many projects (that's the public ones). However, there i
   - Stack: Kotlin, Jetpack Compose, Dagger Hilt, Room, Moshi, Retrofit, Okhttp.
   - Repository link: https://github.com/Mazer11/Recommendaily_client
   - Project link: https://github.com/occ4sion/Recommendaily/wiki
-2. **GifSearch**
-3. **RestorauntRecords**
+2. **GifSearcher**
+  - GifSearcher - application for GIF animation search. User can watch an endless (as match as service can provide) list of popular GIF's and search a specific GIF's by any word.
+  - This app is using API of Giphy (https://giphy.com/)
+  - Screenshots in project repository.
+  - Repository link: https://github.com/Mazer11/GifSearcher
+4. **RestorauntRecords**
   - The app purpose is to link kitchen and waiters of one restoraunt. Waiter can accept order and watch it status through android app. Kitchen can get new orders and notificate waiters about readiness of orders through website. Database and hosting are based on Google Firebase.
   - This is my course work for university.
   - Stack: Kotlin, Jetpack Compose, Dagger Hilt, Google Firebase.
