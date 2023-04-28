@@ -6,3 +6,5 @@ In this account, not so many projects (that's the public ones). However, there i
   - Project link: https://github.com/occ4sion/Recommendaily/wiki
 2. **RestorauntRecords.**
   - Repository link: https://github.com/Mazer11/RestorauntRecords_compose
+
+Link to my CV pdf file: [CV_Mazurak_Sergey.pdf](https://github.com/Mazer11/Mazer11/files/11355809/CV_Mazurak_Sergey.pdf)
