@@ -8,8 +8,7 @@ In this account, not so many projects (that's the public ones). However, there i
 1. **Recommendaily (client part).**
   - Recommendaily a recommender system for M&E (media and entertainment) content which offers another approach to solving the problem of cold user start, by using mechanics to accelerate the collection and markup of data.
   - Stack: Kotlin, Jetpack Compose, Dagger Hilt, Room, Moshi, Retrofit, Okhttp, Coil.
-  - Screenshots in PROJECT repository (second link).
-  - Repository link: https://github.com/Mazer11/Recommendaily_client
+  - Screenshots in PROJECT repository
   - Project link: https://github.com/occ4sion/Recommendaily/wiki
 2. **GifSearcher**
   - GifSearcher - application for GIF animation search. User can watch an endless (as match as service can provide) list of popular GIF's and search a specific GIF's by any word.
