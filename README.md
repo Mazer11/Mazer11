@@ -4,7 +4,7 @@ My CV pdf file: [CV_Mazurak_Sergey.pdf](https://github.com/Mazer11/Mazer11/files
 
 ![CV_Mazurak_Android](https://user-images.githubusercontent.com/86118013/235215621-7a9163fe-a60f-43f4-baa4-674267b43c9d.png)
 
-In this account, not so many projects (that's the public ones). However, there is the most interesting from them:
+In this account, not so many projects (that's the public ones). However, there is the most interesting among them::
 1. **Recommendaily (client part).**
   - Recommendaily a recommender system for M&E (media and entertainment) content which offers another approach to solving the problem of cold user start, by using mechanics to accelerate the collection and markup of data.
   - Stack: Kotlin, Jetpack Compose, Dagger Hilt, Room, Moshi, Retrofit, Okhttp, Coil.
