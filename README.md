@@ -1,8 +1,8 @@
 Hello there!
 
-My CV pdf file: [CV_Mazurak_Sergey.pdf](https://github.com/Mazer11/Mazer11/blob/e0964004e5c73957dcffefb5b2ffa5c77b07af32/CV_Android_Mazurak.pdf)
+My CV pdf file: [CV_Android_Mazurak.pdf](https://github.com/Mazer11/Mazer11/files/12845396/CV_Android_Mazurak.pdf)
 
-![CV_Mazurak_Android](https://user-images.githubusercontent.com/86118013/235215621-7a9163fe-a60f-43f4-baa4-674267b43c9d.png)
+![CV_Android_Mazurak](https://github.com/Mazer11/Mazer11/assets/86118013/eb33fdfd-9f70-42bd-ad6e-69d623883125)
 
 In this account, not so many projects (that's the public ones). However, there is the most interesting among them::
 1. **Recommendaily (client part).**
