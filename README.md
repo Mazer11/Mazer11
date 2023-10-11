@@ -10,7 +10,7 @@ In this account, not so many projects (that's the public ones). However, there i
   - There are a few developers in the team. I am responsible for the mobile application.
   - Stack: Kotlin, Jetpack Compose, Dagger Hilt, Room, Moshi, Retrofit, Okhttp, Coil.
   - Screenshots in PROJECT repository
-  - Project link: https://github.com/occ4sion/Recommendaily/wiki
+  - Project link: https://recommendaily.com/
 2. **GifSearcher**
   - GifSearcher - application for GIF animation search. User can watch an endless (as match as service can provide) list of popular GIF's and search a specific GIF's by any word.
   - This app is using API of Giphy (https://giphy.com/)
