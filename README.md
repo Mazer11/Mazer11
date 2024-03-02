@@ -1,9 +1,6 @@
 Hello there!
 
 My CV pdf file:  [CV_Android_Mazurak.pdf](https://github.com/Mazer11/Mazer11/files/13301561/CV_Android_Mazurak.pdf)
- 
-
-![CV_Android_Mazurak](https://github.com/Mazer11/Mazer11/assets/86118013/95d26c8d-d540-4015-85c6-3d00ab6df059)
 
 In this account, not so many projects (that's the public ones). However, there is the most interesting among them::
 1. **Recommendaily (client part).**
